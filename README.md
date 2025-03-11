@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 #### This is testing purpose and practicing repo...
 
+i am practicing here my next js code...
+
 ## Getting Started
 
 First, run the development server:
